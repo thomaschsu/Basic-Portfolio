@@ -6,14 +6,8 @@ Basic portfolio created using HTML, CSS, and Photoshop
 - - -
 ### Screenshots
 
-##### Main Page
-![Image 1](/images/b-portfolio-1.jpg)
-
-##### Portfolio Page
-![Image 1](/images/b-portfolio-2.jpg)
-
-##### Contact Me Page
-![Image 1](/images/b-portfolio-3.jpg)
+##### Demo
+![Image 1](/images/image01.gif)
 
 - - -
 
