@@ -15,5 +15,7 @@ Basic portfolio created using HTML, CSS, and Photoshop. This is the first iterat
 2. CSS
 3. Photoshop
 
+- - -
+
 ### Live Link
 https://thomaschsu.github.io/basic-portfolio/
