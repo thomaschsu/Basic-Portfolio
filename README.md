@@ -4,9 +4,8 @@
 Basic portfolio created using HTML, CSS, and Photoshop
 
 - - -
-### Screenshots
 
-##### Demo
+### Demo
 ![Image 1](/images/image01.gif)
 
 - - -
